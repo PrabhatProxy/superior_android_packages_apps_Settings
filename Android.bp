@@ -109,6 +109,7 @@ android_library {
         "kotlinx_coroutines",
         "androidx.preference_preference-ktx",
         "adaptivecharging",
+        "androidx.dynamicanimation_dynamicanimation",
     ],
 
     libs: [
